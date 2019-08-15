@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/As2.dir/main.cpp.o CMakeFiles/As2.dir/Point.cpp.o CMakeFiles/As2.dir/Cluster.cpp.o  -o As2 

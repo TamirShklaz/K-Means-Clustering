@@ -1,0 +1,3 @@
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As2/cmake-build-debug/CMakeFiles/As2.dir
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As2/cmake-build-debug/CMakeFiles/edit_cache.dir
