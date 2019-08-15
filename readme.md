@@ -1,4 +1,5 @@
-# K-Means Clustering Implementation in C++ done for CSC3022H (UCT - C++ with Applications course)
+# K-Means Clustering Implementation in C++
+## For CSC3022H (UCT - C++ with Applications course)
 
 For project brief see: Assignment-Description.pdf
 
